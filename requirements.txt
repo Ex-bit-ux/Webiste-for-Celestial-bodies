@@ -1,5 +1,5 @@
-website.py/
-    streamlit
-    pandas
+streamlit
+pandas
+
 
 
