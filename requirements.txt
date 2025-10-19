@@ -1,3 +1,4 @@
-Webiste-for-Celestial-bodies/
+Website-for-Celestial-bodies/
     streamlit
     pandas
+
